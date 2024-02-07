@@ -9,15 +9,15 @@ This project is a full-stack web application built using React.js for the fronte
 * Data Storage: Exercise data entered through the form is stored in the MongoDB database.
 
 # Technologies Used
-# Frontend:
-- React.js: JavaScript library for building user interfaces.
-- CSS: Used for styling and design.
-# Backend:
-- Node.js: JavaScript runtime environment.
-- Express.js: Web application framework for Node.js.
-# Database:
-- MongoDB: NoSQL database.
-- Mongoose: MongoDB object modeling tool.
+ - Frontend:
+    - React.js: JavaScript library for building user interfaces.
+    - CSS: Used for styling and design.
+- Backend:
+    - Node.js: JavaScript runtime environment.
+    - Express.js: Web application framework for Node.js.
+- Database:
+    - MongoDB: NoSQL database.
+    - Mongoose: MongoDB object modeling tool.
 
 # Dependencies
 - cd frontend
